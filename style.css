@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+
+}
+
+section {
+    margin-bottom: 15px;
+    border-bottom: 1px dashed #444;
+    padding: 30px;
+}
+
+div {
+    display: block;
+}
+
+.form {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.button-primary {
+    background-color: #4caf50;
+    color: #fff;
+    border-color: #4caf50;
+    margin-bottom: 15px;
+}
